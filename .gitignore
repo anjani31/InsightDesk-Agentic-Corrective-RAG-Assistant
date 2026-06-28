@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+checkpoints.db
+*.sqlite
+data/*.pdf
+.ragas_cache/
+.pytest_cache/
+.DS_Store/
+.env.example
